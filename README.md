@@ -1,4 +1,3 @@
-<div align="center">
 
 ```
 ██╗  ██╗ █████╗ ██╗    ██╗███████╗██╗      █████╗ 
@@ -11,18 +10,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B30FF&center=true&vCenter=true&width=620&lines=security+%2F+software+%2F+controlled+chaos;vibe+coder+%26+real+coder+at+once;AI-assisted.+Brain-powered.;i+break+things+to+understand+them.)](https://git.io/typing-svg)
 
-</div>
-
 ---
 
 ```python
 class KauelaKawela:
     def __init__(self):
         self.alias      = "KauelaKawela"
-        self.fields     = ["Cybersecurity", "Software Dev", "AI-assisted chaos"]
-        self.mode       = ["Vibe Coder", "Real Coder"]
+        self.fields     = ["Cybersecurity", "Software Dev", "AI-assisted chaos", "Mobile/rooting", "Firmware flashing"]
+        self.mode       = ["Vibe Coder", "Real Coder", "Root user"]
         self.mindset    = "break it → understand it → build something darker"
         self.currently  = "exploring the edges of what shouldn't be possible"
+
+    def toolkit(self):
+        return [
+            "Odin (Samsung flashing & firmware tooling)",
+            "Fastboot & ADB (device control, debugging, flashing)",
+            "Magisk (systemless root, modules, hide/patching)",
+            "Custom recoveries (TWRP, OrangeFox)",
+            "Custom ROM"
+    ]
 
     def approach(self):
         return "AI is just another tool. The ideas are mine."
@@ -40,6 +46,7 @@ Somewhere in the dark between intuition and logic.
 Ships code with AI when it's faster.
 Writes it raw when it matters.
 Knows why it works — most of the time.
+Also: flashes firmware, roots devices, I love freedom
 ```
 
 </div>
@@ -70,7 +77,22 @@ Knows why it works — most of the time.
 
 ---
 
-### 🔓 Hacker Toolkit
+### 🖥️ Operating Systems
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=9B30FF)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0d0d0d?style=for-the-badge&logo=ubuntu&logoColor=9B30FF)
+![Kali Linux](https://img.shields.io/badge/Kali-0d0d0d?style=for-the-badge&logo=kali-linux&logoColor=9B30FF)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-0d0d0d?style=for-the-badge&logo=linuxmint&logoColor=9B30FF)
+![Kubuntu](https://img.shields.io/badge/Kubuntu-0d0d0d?style=for-the-badge&logo=kde&logoColor=9B30FF)
+![Debian](https://img.shields.io/badge/Debian-0d0d0d?style=for-the-badge&logo=debian&logoColor=9B30FF)
+![Windows](https://img.shields.io/badge/Windows-0d0d0d?style=for-the-badge&logo=windows&logoColor=9B30FF)
+![Termux](https://img.shields.io/badge/Termux-0d0d0d?style=for-the-badge&logo=termux&logoColor=9B30FF)
+
+</div>
+
+### 🔓 Device & Toolkit
 
 <div align="center">
 
@@ -82,6 +104,10 @@ Knows why it works — most of the time.
 ![SQLMap](https://img.shields.io/badge/SQLMap-0d0d0d?style=for-the-badge&logo=databricks&logoColor=9B30FF)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=9B30FF)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=portswigger&logoColor=9B30FF)
+![Odin](https://img.shields.io/badge/Odin-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
+![Magisk](https://img.shields.io/badge/Magisk-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
+![ADB](https://img.shields.io/badge/ADB-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
+![Fastboot](https://img.shields.io/badge/Fastboot-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
 
 </div>
 
@@ -104,9 +130,9 @@ Knows why it works — most of the time.
 <div align="center">
 
 ```
-[ systems nominal ] [ firewall: active ] [ curiosity: uncontained ]
+[ systems nominal ] [ firewall: active ] [ curiosity: uncontained ] [ Permission: Root]
 ```
 
-*"Kafamın estiği gibi"*
+*"Kafamın estiği gibi, özgürlüğün esintisi"*
 
 </div>
