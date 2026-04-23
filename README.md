@@ -109,6 +109,7 @@ Also: flashes firmware, roots devices, I love freedom
 ![ADB](https://img.shields.io/badge/ADB-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
 ![Fastboot](https://img.shields.io/badge/Fastboot-0d0d0d?style=for-the-badge&logo=android&logoColor=9B30FF)
 ![Gradle](https://img.shields.io/badge/Gradle-0d0d0d?style=for-the-badge&logo=gradle&logoColor=9B30FF)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=9B30FF)
 
 
 </div>
