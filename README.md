@@ -1,16 +1,112 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**KauelaKawela/KauelaKawela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗ █████╗ ██╗    ██╗███████╗██╗      █████╗ 
+██║ ██╔╝██╔══██╗██║    ██║██╔════╝██║     ██╔══██╗
+█████╔╝ ███████║██║ █╗ ██║█████╗  ██║     ███████║
+██╔═██╗ ██╔══██║██║███╗██║██╔══╝  ██║     ██╔══██║
+██║  ██╗██║  ██║╚███╔███╔╝███████╗███████╗██║  ██║
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚══╝╚══╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9B30FF&center=true&vCenter=true&width=620&lines=security+%2F+software+%2F+controlled+chaos;vibe+coder+%26+real+coder+at+once;AI-assisted.+Brain-powered.;i+break+things+to+understand+them.)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+```python
+class KauelaKawela:
+    def __init__(self):
+        self.alias      = "KauelaKawela"
+        self.fields     = ["Cybersecurity", "Software Dev", "AI-assisted chaos"]
+        self.mode       = ["Vibe Coder 🎧", "Real Coder 💻"]
+        self.mindset    = "break it → understand it → build something darker"
+        self.currently  = "exploring the edges of what shouldn't be possible"
+
+    def approach(self):
+        return "AI is just another tool. The ideas are mine."
+```
+
+---
+
+<div align="center">
+
+### `> whoami`
+
+```
+Not a script kiddie. Not a purist.
+Somewhere in the dark between intuition and logic.
+Ships code with AI when it's faster.
+Writes it raw when it matters.
+Knows why it works — most of the time.
+```
+
+</div>
+
+---
+
+### 🛸 Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=9B30FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=9B30FF)
+![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=9B30FF)
+![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=9B30FF)
+
+</div>
+
+---
+
+### 🗄️ Databases
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=9B30FF)
+![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=9B30FF)
+
+</div>
+
+---
+
+### 🔓 Hacker Toolkit
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logo=nmap&logoColor=9B30FF)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=9B30FF)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-0d0d0d?style=for-the-badge&logo=airplayaudio&logoColor=9B30FF)
+![Hashcat](https://img.shields.io/badge/Hashcat-0d0d0d?style=for-the-badge&logo=hashnode&logoColor=9B30FF)
+![John the Ripper](https://img.shields.io/badge/John_The_Ripper-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=9B30FF)
+![SQLMap](https://img.shields.io/badge/SQLMap-0d0d0d?style=for-the-badge&logo=databricks&logoColor=9B30FF)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=9B30FF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d0d0d?style=for-the-badge&logo=portswigger&logoColor=9B30FF)
+
+</div>
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+![KauelaKawela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauelaKawela&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9B30FF&icon_color=9B30FF&text_color=c9d1d9)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauelaKawela&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=9B30FF&text_color=c9d1d9)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KauelaKawela&theme=dark&hide_border=true&background=0d0d0d&ring=9B30FF&fire=9B30FF&currStreakLabel=9B30FF)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ systems nominal ] [ firewall: active ] [ curiosity: uncontained ]
+```
+
+*"Kafamın estiği gibi"*
+
+</div>
