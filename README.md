@@ -20,7 +20,7 @@ class KauelaKawela:
     def __init__(self):
         self.alias      = "KauelaKawela"
         self.fields     = ["Cybersecurity", "Software Dev", "AI-assisted chaos"]
-        self.mode       = ["Vibe Coder 🎧", "Real Coder 💻"]
+        self.mode       = ["Vibe Coder", "Real Coder"]
         self.mindset    = "break it → understand it → build something darker"
         self.currently  = "exploring the edges of what shouldn't be possible"
 
